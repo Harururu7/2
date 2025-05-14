@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\Haru\Desktop\Project_2\f1\f1\main.cpp(287,17): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Haru\Desktop\Project_2\f1\f1\main.cpp(288,17): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Haru\Desktop\Project_2\f1\f1\main.cpp(292,19): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Haru\Desktop\Project_2\f1\f1\main.cpp(293,19): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Haru\Desktop\Project_2\f1\f1\main.cpp(294,13): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Haru\Desktop\Project_2\f1\f1\main.cpp(295,13): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  f1.vcxproj -> C:\Users\Haru\Desktop\Project_2\f1\x64\Debug\f1.exe
